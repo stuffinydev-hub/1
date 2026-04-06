@@ -55,7 +55,7 @@ class AdminStates(StatesGroup):
     waiting_change_expiry_user = State()
     waiting_change_expiry_date = State()
     
-BOT_TOKEN = "8754304570:AAGLuXaarj7t8arwaPTjxARAPFVMAUQyuzY"
+BOT_TOKEN = "8754304570:AAFmnxlD0MyRdjR10Skt1qh4BqZP7bqjCQw"
 VPN_NAME = "Unlockme VPN"  
 ALLOWED_COMMANDS = ["/s", "/start"]
 AGREEMENT_URL = "https://t.me/stuffinydev"
